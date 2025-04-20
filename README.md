@@ -56,6 +56,8 @@ https://private-user-images.githubusercontent.com/74038190/240885386-87360948-7b
   [![ES6](https://img.shields.io/badge/es6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://www.w3schools.com/js/js_es6.asp)
   [![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
   [![React JS](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=333)](https://reactjs.org/)
+    [![numpy](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
+  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 - **Back End & Cloud Services**
@@ -63,6 +65,8 @@ https://private-user-images.githubusercontent.com/74038190/240885386-87360948-7b
   [![Node JS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)](https://nodejs.org/en/)
   [![Express JS](https://img.shields.io/badge/express-000?style=for-the-badge&logo=express&logoColor=fff)](https://expressjs.com/)
   [![MongoDB](https://img.shields.io/badge/mongo%20db-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)](https://www.mongodb.com/)
+  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 
 
@@ -73,22 +77,21 @@ https://private-user-images.githubusercontent.com/74038190/240885386-87360948-7b
   [![scikit learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
   [![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
   [![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+    [![scikit learn](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
 
 - **Other Tools**
   
     [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)](https://github.com/) 
     [![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/)
     [![NPM](https://img.shields.io/badge/npm-C12127?style=for-the-badge&logo=npm)](https://www.npmjs.com/)
-
-- **Learning**
-
-  [![scikit learn](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
   [![numpy](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
-  [![pandas](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)]()
-  [![scikit learn](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
-  [![numpy](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
-  [![pandas](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)]()
-  [![React Redux](https://img.shields.io/badge/react%20redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff)](https://react-redux.js.org/)
+    [![pandas](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)]()
+
+
+
+
+
+
 
   
 
@@ -109,6 +112,7 @@ https://private-user-images.githubusercontent.com/74038190/240885386-87360948-7b
 <div align="center">
  
 
-# Thank you for visiting  ![pikachu](https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMzOTEyMTUsIm5iZiI6MTcyMzM5MDkxNSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODExVDE1NDE1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMyMjM5NTkzMWFhZTE5MDA3YzhhMGUyNGUyYWMzZTYyZjRlZTQ3ZjY5MDMzMjQ2ZTFmNjQ1MmQ0OTU2NjJmYTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.YWfQq1bmQhtUV6rezZEVabRfcVtcwwRNByHkJtW3Od8)
+# Thank you for visiting  
+![pikachu](https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMzOTEyMTUsIm5iZiI6MTcyMzM5MDkxNSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODExVDE1NDE1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMyMjM5NTkzMWFhZTE5MDA3YzhhMGUyNGUyYWMzZTYyZjRlZTQ3ZjY5MDMzMjQ2ZTFmNjQ1MmQ0OTU2NjJmYTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.YWfQq1bmQhtUV6rezZEVabRfcVtcwwRNByHkJtW3Od8)
 
 </div>
