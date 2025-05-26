@@ -3,7 +3,7 @@
 -->
 
 
-# Hi there 👋, My name is  Satyam Kathiat
+# Hi there 👋, My name is Satyam Kathiat
 
 <!--
 
